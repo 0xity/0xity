@@ -1,6 +1,5 @@
 ### Hi, I’m Oxity
-I'm a mediocre Python novice at best, I'm still learning the language and I try to do stuff from time to time.  
-Most of what I'll do will be open source because everything I do sucks and does not deserve to be closed source.
+I'm a mediocre Python novice at best, I'm still learning the language and I try to do stuff from time to time.
 ## What do I do?
 Right now not much, but I want to learn game development and web design.
 ## How can you reach me?
