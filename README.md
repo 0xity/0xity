@@ -1,4 +1,4 @@
-### Hi, I’m Oxity
+## Hi, I’m Oxity
 I'm a Python novice, I'm still learning the language and I try to do stuff from time to time.
 ## What do I do?
 Right now a considerable amount of studying and practice, but I want to learn game development and backend development later on.
