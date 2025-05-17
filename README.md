@@ -1,7 +1,7 @@
 ## Hi, I’m Oxity
-I'm a Python novice, I'm still learning the language and I try to do stuff from time to time.
+I'm a Python novice, I also code in JS and C#.
 ## What do I do?
-Right now a considerable amount of studying and practice. I program stuff I find cool.
+Right now a considerable amount of studying and practice. I program stuff I find cool. Mostly discord bots nowadays
 ## How can you reach me?
 Through my [Discord Server](https://discord.gg/r4BjqPDFjf) or [Email](oxityy@proton.me).
 
